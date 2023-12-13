@@ -1,6 +1,6 @@
 ## 👋 Hello World, I'm Sin Yin!
 
-I'm a bioengineering student whom is interested in coding. My journey in coding began with mini coding assignments in school and I've since delved into various technologies to fuel my enthusiasm for creating impactful solutions. 
+I'm a bioengineering student who is passionate about coding. My coding journey started with small assignments in school, and since then, I have explored various technologies to fuel my enthusiasm for creating impactful solutions.
 
 ### 🔧 Skills & Technologies
 
@@ -8,7 +8,7 @@ I'm a bioengineering student whom is interested in coding. My journey in coding 
 
 ### 🚀 What I Do
 
-Currently, I do not have any specialization, just picking up skills along the way. My goal is to incorporate medtech and codes, and I'm always excited to explore new challenges and expand my skill set.
+Currently, I do not have any specialization, just picking up skills along the way. My goal is to integrate medical technology with coding. Always excited to explore new challenges and expand my skill set!
 
 ### 🌱 Learning & Exploring
 
@@ -24,6 +24,6 @@ I'm always open to collaborations and discussions. Feel free to connect with me 
 
 ### 📖 Favorite Quote
 
-> [If the code works, leave it alone]
+> If the code works, leave it alone.
 
 Let's code together and make an impactful impact! 💻✨
