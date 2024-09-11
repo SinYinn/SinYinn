@@ -24,6 +24,6 @@ I'm always open to collaborations and discussions. Feel free to connect with me 
 
 ### 📖 Favorite Quote
 
-> If the code works, leave it alone.
+> Out of complexity, find simplicity! - Albert Einstein
 
 Let's code together and make an impactful impact! 💻✨
