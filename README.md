@@ -8,7 +8,7 @@ I'm a bioengineering student who is passionate about coding. My coding journey s
 
 ### 🚀 What I Do
 
-Currently, I do not have any specialization, just picking up skills along the way. My goal is to integrate medical technology with coding. Always excited to explore new challenges and expand my skill set!
+I love working with data as I believe it is the key to unlock new possibilities. Always excited to explore new challenges and expand my skill set!
 
 ### 🌱 Learning & Exploring
 
