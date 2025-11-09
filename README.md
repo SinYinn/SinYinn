@@ -1,6 +1,6 @@
 ## 👋 Hello World, I'm Sin Yin!
 
-I'm a bioengineering student who is passionate about coding. My coding journey started with small assignments in school, and since then, I have explored various technologies to fuel my enthusiasm for creating impactful solutions.
+I am a bioengineer with a passion in the fusion of medical technology with machine learning. 
 
 ### 🔧 Skills & Technologies
 
